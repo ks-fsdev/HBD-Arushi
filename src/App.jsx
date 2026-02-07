@@ -5,9 +5,9 @@ import { AnimatePresence, motion } from "motion/react";
 import { PixelImage } from "./Components/ui/pixel-image";
 import img1 from "./assets/img1.jpeg";
 import img3 from "./assets/img3.jpeg";
-import img4 from "./assets/img4.jpeg";
-import img5 from "./assets/img5.jpeg";
-import img6 from "./assets/img6.jpeg";
+import img4 from "./assets/img4.JPEG";
+import img5 from "./assets/img5.JPEG";
+import img6 from "./assets/img6.JPEG";
 import video from "./assets/v1.MOV";
 
 function App() {
